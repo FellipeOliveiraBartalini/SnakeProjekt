@@ -1,0 +1,15 @@
+#Ideias para o game;
+
+* Criar um modo de jogo onde a cada duas maçãs comidas, aumenta a quantidade de maçãs que spawna.
+
+* Criar um menu, que possua uma seleção de dificuldade; 
+    - A dificuldade será a velocidade do jogo.
+
+* Adicionar placar de pontuação com data e nome;
+    - Estará localizado no menu.
+
+#Ideias realizadas:
+
+* Adicionar um comando que pause o jogo;(CHECK)
+
+* Adicionar Telas de Game Over e Pause;

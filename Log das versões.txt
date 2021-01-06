@@ -1,0 +1,33 @@
+Atualizações Realizadas/Finalizadas:
+
+    Snake V0.1: Versão básica do jogo, sem hud.
+
+    Snake V0.2: Adição de pontuação.
+
+    Snake V0.3: Adição de colisão simples.
+
+    Snake V0.4: Adição do HUD de Localização.
+
+    Snake V0.5: Correção do Bug da Localização, HUD melhorado, e adição do botão ESC(sair do jogo).
+        - Bug: Localização andava pela tela
+
+    Snake V0.6: Correção do Bug da Colisão.
+        - Bug: Player passava pela parede.
+
+    Snake V0.7: Botão para pausar o jogo adicionado; Bug do Spawn da comida corrigido;
+        - Bug: Comida spawnava embaixo do hud.
+    
+    Snake V0.8: Código melhorado.
+
+    Snake V0.9: Adicionado tela de game over e pause.
+
+Em processo:
+
+    - SnakeV1.0: Adição de Menu;
+        - Com opção de selecionar dificuldade e jogar.
+        - Dificuldade será a velocidade do jogo.
+
+Em breve: 
+
+    - SnakeV1.1: Adicionar modo de jogo Maçã x(2 Score)
+        - A cada dois pontos aumenta o spawn de maçã em um.    
